@@ -16,6 +16,7 @@ For the reference model, I used the factory-installed illumination module. The d
 
 - **Assembly:** Requires two **M2x10 screws** with M2 nuts and washers.  
 - **Illumination:** Any LEDs can be used. I used **two 3.2V, 1A LEDs** with a **9-ohm resistor**.  
+- **Camera:** AMiO HD-340 03536.
 
 ## ⚠️ Legal Notice  
 Laws regarding vehicle lighting modifications vary by country. Please check local regulations before installation.  
